@@ -1,0 +1,2 @@
+# ProtoBeeHelperServer
+简单整合google protobuf和mina框架服务端
